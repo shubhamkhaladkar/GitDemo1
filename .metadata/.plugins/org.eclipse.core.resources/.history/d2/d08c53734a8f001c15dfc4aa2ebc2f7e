@@ -1,0 +1,10 @@
+package javabasic1;
+
+public class Methodoverriding2 extends Methodoverriding1
+{
+ @Override
+ public void sample()
+ {
+	 System.out.println("sample method is running..");
+ }
+}

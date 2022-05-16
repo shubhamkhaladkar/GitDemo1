@@ -1,0 +1,11 @@
+package programs2;
+
+public class Explicit 
+{
+  public static void main(String[] args) {
+	
+	  System.out.println("Main method started..");
+	  
+	  System.out.println("Mian method ended..");
+}
+}

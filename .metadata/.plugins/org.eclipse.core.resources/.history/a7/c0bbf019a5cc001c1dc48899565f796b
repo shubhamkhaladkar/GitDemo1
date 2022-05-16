@@ -1,0 +1,21 @@
+package testng1;
+
+import org.testng.Reporter;
+import org.testng.annotations.Test;
+
+import com.aventstack.extentreports.model.Report;
+
+public class SampleTest3 
+{
+ @Test
+ public void Demo1()
+ {
+	 Reporter.log("Demo1 method is running",true);
+ }
+ 
+ @Test
+ public void Demo2()
+ {
+	 Reporter.log("Demo2 Method is running", true);
+ }
+}

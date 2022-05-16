@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="Seleniumlatestfeature"/>
+			<item value="DBByshubham"/>
+			<item value="Dump"/>
+			<item value="skqa"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="Seleniumlatestfeature"/>
+			<item value="DBTesting"/>
+			<item value="Dump"/>
+			<item value="selenium-java"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\khala\OneDrive\Desktop\Automation\Introduction"/>
+			<item value="C:\Users\khala\OneDrive\Desktop\Automation\Mavenjava"/>
+			<item value="C:\Users\khala\OneDrive\Desktop\Automation\DBTesting"/>
+			<item value="C:\Users\khala\OneDrive\Desktop\Automation\BDD"/>
+			<item value="C:\Users\khala\OneDrive\Desktop\Automation\ExcelDriven"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="byshubham"/>
+			<item value="E2EProject"/>
+			<item value="qabyshubham"/>
+			<item value="Samplecucumber.Cucumberbyshubham"/>
+		</list>
+		<list key="groupId">
+			<item value="framework"/>
+			<item value="Scrathframeproject"/>
+			<item value="qabyshubham"/>
+			<item value="Samplecucumber "/>
+		</list>
+		<list key="artifactId">
+			<item value="byshubham"/>
+			<item value="E2EProject"/>
+			<item value="Mavenjava"/>
+			<item value="Cucumberbyshubham"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.CustomArchetypeDialog">
+	</section>
+</section>

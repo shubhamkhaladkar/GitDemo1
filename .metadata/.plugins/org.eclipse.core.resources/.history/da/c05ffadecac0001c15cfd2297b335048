@@ -1,0 +1,15 @@
+package programs2;
+
+public class Methodoverriding2 extends MethodOverriding1
+{
+  void demo1()
+  {
+	  System.out.println("Deom1 method is running");
+  }
+  
+  @Override
+  public void sample1()
+  {
+	  System.out.println("Sample1 method is overrided..");
+  }
+}

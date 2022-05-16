@@ -1,0 +1,6 @@
+package programs2;
+
+public class Methodoverriding2 extends MethodOverriding1
+{
+
+}

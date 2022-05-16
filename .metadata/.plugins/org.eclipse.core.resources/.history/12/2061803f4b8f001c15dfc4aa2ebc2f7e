@@ -1,0 +1,17 @@
+package javabasic1;
+
+public class Methodoverriding1 {
+	public void sample() {
+
+	}
+
+	public String demo() {
+		String str = "shubham";
+		return str;
+	}
+	
+	public void test()
+	{
+		System.out.println("test method is running.");
+	}
+}

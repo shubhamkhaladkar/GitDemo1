@@ -1,0 +1,10 @@
+package javabasic1;
+
+public class Test_I1 implements I1
+{
+  @Override
+  public void sample()
+  {
+	  System.out.println("Main method is started");
+  }
+}

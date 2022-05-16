@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="CrossSuite">
+	<test name="Firefoxbroswertestcases">
+		<parameter name="browser" value="fire" />
+		<classes>
+			<class name="crossbrowser.Verify1" />
+		</classes>
+	</test> <!-- Test -->
+
+	<test name="Chromebroswertestcases">
+		<parameter name="browser" value="fire" />
+		<classes>
+			<class name="crossbrowser.Verify1" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- CrossSuite -->

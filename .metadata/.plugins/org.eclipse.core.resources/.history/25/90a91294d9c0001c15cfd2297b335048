@@ -1,0 +1,23 @@
+package programs2;
+
+public class Implicit {
+	public static void main(String[] args) {
+
+		int a = 10;
+
+		System.out.println("Beofe:" + a);
+
+		float b = a;
+		System.out.println("After:" + b);
+		
+		char m='A';
+		
+		System.out.println("Before:"+m);
+		
+		int n=m;
+		
+		System.out.println("After:"+n);
+
+	}
+
+}

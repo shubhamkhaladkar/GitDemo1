@@ -1,0 +1,9 @@
+package javabasic1;
+
+public class PrivateMethod 
+{
+  private void sample()
+  {
+	  System.out.println("Sample method is running..");
+  }
+}

@@ -1,0 +1,16 @@
+package crossbrowser;
+
+import org.testng.annotations.Test;
+
+import com.beust.jcommander.Parameter;
+
+public class Verify1 
+{
+ @Test
+ @Parameters("browser")
+ public void runningmultiplebroswer()
+ {
+	 
+	 
+ }
+}

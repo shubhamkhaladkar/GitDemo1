@@ -1,0 +1,11 @@
+package programs2;
+
+public class Encaps1 
+{
+ private int pin =1234;
+ 
+ public void getpin()
+ {
+	 return pin;
+ }
+}

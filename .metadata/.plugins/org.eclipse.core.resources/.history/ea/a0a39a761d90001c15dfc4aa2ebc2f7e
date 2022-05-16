@@ -1,0 +1,30 @@
+package javabasic1;
+
+public class TestMultiple1  implements Multiple1, Multiple2
+{
+
+	@Override
+	public void price(double p) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void displays(String str) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void name(String str) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void names(String str) {
+		// TODO Auto-generated method stub
+		
+	}
+ 
+}

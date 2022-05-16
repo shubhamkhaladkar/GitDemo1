@@ -1,0 +1,9 @@
+package javabasic1;
+
+public class Test_ATM
+{
+  public static void main(String[] args) {
+	
+	  System.out.println("main mehtod is started...");
+}
+}

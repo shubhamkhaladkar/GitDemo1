@@ -1,0 +1,15 @@
+package programs2;
+
+public class FlowofBlockandConstructor {
+	static {
+		System.out.println("Static block started..");
+	}
+
+	{
+		System.out.println("Non static block started..");
+	}
+
+	FlowofBlockandConstructor() {
+		System.out.println("Constructor is started..");
+	}
+}

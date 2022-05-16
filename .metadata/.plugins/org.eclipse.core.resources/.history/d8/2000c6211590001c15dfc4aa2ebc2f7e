@@ -1,0 +1,13 @@
+package javabasic1;
+
+public class Upcasting2
+{
+    public static void main(String[] args) {
+		Upcasting u1  = new Upcasting1();
+		
+		u1.sendkeys();
+		u1.sample();
+		u1.gettext();
+		
+	}
+}

@@ -1,0 +1,16 @@
+package testng1;
+
+import org.testng.annotations.Test;
+
+import com.beust.jcommander.Parameter;
+
+public class SampleTest7  
+{
+	@Parameter({"username" ,"password"})
+ @Test
+ public void login(String username, String password)
+ {
+	 System.out.println(username);
+	 System.out.println(password);
+ }
+}
